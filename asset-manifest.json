@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bhure123/newsapp/static/css/main.be0c93d8.chunk.css",
+    "main.js": "/bhure123/newsapp/static/js/main.8fd1d0a5.chunk.js",
+    "main.js.map": "/bhure123/newsapp/static/js/main.8fd1d0a5.chunk.js.map",
+    "runtime-main.js": "/bhure123/newsapp/static/js/runtime-main.caa940fa.js",
+    "runtime-main.js.map": "/bhure123/newsapp/static/js/runtime-main.caa940fa.js.map",
+    "static/js/2.32846cb6.chunk.js": "/bhure123/newsapp/static/js/2.32846cb6.chunk.js",
+    "static/js/2.32846cb6.chunk.js.map": "/bhure123/newsapp/static/js/2.32846cb6.chunk.js.map",
+    "static/js/3.d1bbd77a.chunk.js": "/bhure123/newsapp/static/js/3.d1bbd77a.chunk.js",
+    "static/js/3.d1bbd77a.chunk.js.map": "/bhure123/newsapp/static/js/3.d1bbd77a.chunk.js.map",
+    "index.html": "/bhure123/newsapp/index.html",
+    "precache-manifest.563b972cf82b78796787758751c71c6d.js": "/bhure123/newsapp/precache-manifest.563b972cf82b78796787758751c71c6d.js",
+    "service-worker.js": "/bhure123/newsapp/service-worker.js",
+    "static/css/main.be0c93d8.chunk.css.map": "/bhure123/newsapp/static/css/main.be0c93d8.chunk.css.map",
+    "static/js/2.32846cb6.chunk.js.LICENSE.txt": "/bhure123/newsapp/static/js/2.32846cb6.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/bhure123/newsapp/static/media/loading.a1f67e95.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caa940fa.js",
+    "static/js/2.32846cb6.chunk.js",
+    "static/css/main.be0c93d8.chunk.css",
+    "static/js/main.8fd1d0a5.chunk.js"
+  ]
+}
